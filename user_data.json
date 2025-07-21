@@ -1,0 +1,72 @@
+{
+    "123": {
+        "prev_units": 700,
+        "prev_bill": 6664.999999999999,
+        "units": 1115,
+        "bill_amount": 12928.25,
+        "late_fee": 50
+    },
+    "124": {
+        "prev_units": 404,
+        "prev_bill": 2595.2,
+        "units": 1065,
+        "bill_amount": 12350.75,
+        "late_fee": 50
+    },
+    "456": {
+        "prev_units": 513,
+        "prev_bill": 4359.2,
+        "units": 588,
+        "bill_amount": 4989.2,
+        "late_fee": 50
+    },
+    "God": {
+        "prev_units": 1162,
+        "prev_bill": 13471.1,
+        "units": 1012,
+        "bill_amount": 11738.6,
+        "late_fee": 50
+    },
+    "784": {
+        "prev_units": 0,
+        "prev_bill": 0,
+        "units": 243,
+        "bill_amount": 1192.1000000000001,
+        "late_fee": 50
+    },
+    "546": {
+        "prev_units": 450,
+        "prev_bill": 2885.0,
+        "units": 478,
+        "bill_amount": 3061.4,
+        "late_fee": 50
+    },
+    "345": {
+        "prev_units": 0,
+        "prev_bill": 0,
+        "units": 1045,
+        "bill_amount": 12119.75,
+        "late_fee": 50
+    },
+    "67": {
+        "prev_units": 0,
+        "prev_bill": 0,
+        "units": 324,
+        "bill_amount": 1572.8,
+        "late_fee": 50
+    },
+    "122": {
+        "prev_units": 233,
+        "prev_bill": 1145.1000000000001,
+        "units": 311,
+        "bill_amount": 1511.7,
+        "late_fee": 50
+    },
+    "1234": {
+        "prev_units": 0,
+        "prev_bill": 0,
+        "units": 599,
+        "bill_amount": 5081.6,
+        "late_fee": 50
+    }
+}
